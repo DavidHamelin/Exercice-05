@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Les Exercices\Exercice 05\obj\Debug\Exercice 05.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Les Exercices\Exercice 05\bin\Debug\Exercice 05.exe.config
+C:\Users\Dell\source\repos\Les Exercices\Exercice 05\bin\Debug\Exercice 05.exe
+C:\Users\Dell\source\repos\Les Exercices\Exercice 05\bin\Debug\Exercice 05.pdb
+C:\Users\Dell\source\repos\Les Exercices\Exercice 05\obj\Debug\Exercice 05.exe
+C:\Users\Dell\source\repos\Les Exercices\Exercice 05\obj\Debug\Exercice 05.pdb
