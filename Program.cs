@@ -14,8 +14,8 @@ namespace Exercice_05
             string firstName = Console.ReadLine();
             Console.WriteLine("What's your lastname ?");
             string lastName = Console.ReadLine();
-
-            Console.WriteLine($"Bonjour {firstName} {lastName}, nous sommes le {DateTime.Now}. Comment allez-vous ?");
+            
+            Console.WriteLine($"Bonjour {firstName} {lastName}, nous sommes le {DateTime.Now.ToLongDateString()}. Comment allez-vous ?");
 
 
         }
